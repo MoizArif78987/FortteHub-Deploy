@@ -1,0 +1,132 @@
+body {
+    background-color: #E8E8E8;
+    margin: 0;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 1200px;
+   
+  }
+  #be_a_part{
+    font-size: 250%;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  
+  #p{
+    font-size: 100%;
+    font-weight:  100px;
+  }
+  
+  
+  .nav-links {
+     background-color: #E8E8E8;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  
+    font-size: 75%;
+    color: rgb(0, 0, 0);
+    list-style: none;
+    
+    display: flex;
+  }
+  
+  
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #0a0a0a;
+    font-weight: bold;
+    padding: 5px 10px;
+   
+    align-items: center;
+    justify-content: flex-end;
+    transition: background-color 0.3s ease;
+  }
+  #img1 img {
+    margin-top:-4% ;
+    margin-left: 0;
+    width: 5%; /* Adjust the width value as per your requirement */
+  }
+  
+  #signbtn{
+  
+    color: #ffffff;
+    background-color: #0a0a0a;
+    border-radius: 30px ;
+  }
+  
+  
+  #hire {
+    border: 1px solid #000;
+    font-weight: bold;
+    background-color: transparent;
+    color: #000;
+    border-radius: 30px;
+  
+    text-decoration: none;
+    text-transform: lowercase;
+  }
+  
+  #sec1{
+  margin-top: 5%;
+  
+  }
+  .button-row {
+    display: flex;
+    
+    align-items: center;
+  }
+  
+  .outline-button {
+    border: 1px solid #000;
+    font-weight: bold;
+    background-color: transparent;
+    color: #000;
+    border-radius: 30px;
+    margin: 5px;
+    padding: 10px 20px;
+  }
+  .outline-button:focus {
+    outline: none;
+  }
+  
+  .outline-button:active,
+  .outline-button.clicked {
+    background-color: #000;
+    color: #fff;
+  }
+  #sec2{
+    padding-top: 2%;
+  }
+  
+  .card{
+    background-color: #E8E8E8;
+    border-top: #7a7676;
+    border-top-color: #7a7676;
+    border-top-style: solid;
+  }
+  .card-content {
+   color: #000;
+  }
+  
+  .delete-button {
+  color: #000;
+  }
+  
+  .edit-button {
+   color: #000;
+  }
+  
+  .apply-button {
+    color: #000;
+    border: none;
+   background-color: #E8E8E8;
+    font-size: 150%;
+  font-weight: 300;
+    /* Add any other styles you want */
+  }
+  
+  

@@ -1,0 +1,215 @@
+body {
+    position: absolute;
+    background-color: #E4F5FD;
+    height: 550px;
+    width: 1350px;
+   
+  }
+  
+  
+    
+  
+  #img1{
+    margin-top: 2%;
+    margin-left: 6.5%;
+    width: 20%;
+   
+  }
+  #img2{
+    margin-top: -38%;
+    margin-left: 74%;
+  
+  
+   ;
+  }
+  #img3{
+   
+    width: 80%
+   
+   ;
+  }
+  
+  #img4{
+    margin-top: -1.8%;
+    margin-left: 20.78%;
+    
+    width: 11%;
+   
+  }
+  #img5{
+    margin-top: -2.8%;
+    margin-left: 20.18%;
+   width: 13%;
+  }
+  
+  
+  
+  #text1{
+  margin-top: 1.6%;
+    margin-left: 8%;
+    width: 700px;
+  height: 48px;
+  left: 100px;
+  top: 246px;
+  
+  
+  
+  font-family:'Urbanist', sans-serif;
+  font-style: 'Urbanist';
+  font-weight: 600;
+  font-size: 155%;
+  line-height: 190%;
+  letter-spacing: 0.1em;
+  color: #016FCC;
+  }
+  
+  #text2{
+    margin-top: 0%;
+    position: absolute;
+  margin-left: 8%;
+  font-family:'Urbanist', sans-serif;
+  font-style: 'Urbanist';
+  font-weight: 450;
+  font-size: 105%;
+  line-height: 450%;
+  letter-spacing: 0.01em;
+  color: #016FCC;
+  }
+  
+  .input-container {
+    position: relative;
+    margin: 50px;
+    color: #016FCC;
+  }
+  
+  
+  
+  
+  .input-container {
+    box-sizing: border-box;
+    position: absolute;
+    width: 30%;
+    height: 48%;
+    margin-left: 8%;
+    top: 36%;
+    border-radius: 50%;
+    
+   
+  
+  }
+  
+  #t1 {
+    width: 340px;
+    height: 48px;
+    border-radius: 15px;
+    outline: none;
+    font-size: 18px;
+    padding: 0 10px;
+    text-decoration-color: #016FCC;
+    
+    color: #016FCC;}
+  
+    #t2 {
+      width: 245px;
+      height: 48px;
+      border-radius: 15px;
+      outline: none;
+      font-size: 18px;
+      padding: 0 10px;
+      text-decoration-color: #016FCC;
+      color: #016FCC;}
+    
+     
+      .input {
+        border-radius: 15px;
+        outline: none;
+        font-size: 18px;
+        padding: 0 10px;
+        width: 100%;
+        height: 100%;
+        color: #016FCC;
+        border: 3px solid #016FCC;
+        box-sizing: border-box;
+      }
+  
+  .input-container1 {
+    box-sizing: border-box;
+  
+  position: absolute;
+  
+  height: 48%;
+  margin-left: 40%;
+  top: 45.1%;
+  
+  
+  border-radius: 25%;
+  }
+  
+  #text3{
+    margin-top: 390px;
+    position: absolute;
+  margin-left: 8%;
+  font-family: 'Urbanist';
+  font-family:'Urbanist', sans-serif;
+  font-style: normal;
+  font-weight: 80;
+  font-size: 12px;
+  line-height: 48px;
+  letter-spacing: 0.05em;
+  color: #016FCC;
+  }
+  #text4{
+    margin-top: 390px;
+    position: absolute;
+  margin-left: 680px;
+  font-family: 'Urbanist';
+  font-family:'Urbanist', sans-serif;
+  font-style: normal;
+  font-weight: 80;
+  font-size: 14px;
+  line-height: 48px;
+  letter-spacing: 0.05em;
+  color: #016FCC;
+  }
+  .input-container input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(1) hue-rotate(180deg); /* Change the color of the calendar icon */
+  }
+  
+  #button{
+    margin-top: 390px;
+  width: 110px;
+  height: 40px;
+  margin-left: 790px;
+  outline:  #98DEFF;
+  color: #016FCC;
+  background: #98DEFF;
+  border-radius: 30px ;
+  
+  }
+  
+  #dphn{
+    width: 7.8%;
+    margin-top: -9.8%;
+  margin-left: 41%;
+  }
+  
+  #phn{
+    
+    background-color: #E4F5FD;
+  
+   
+    outline:  #98DEFF;
+    font-size: 18px;
+   border: none;
+    text-decoration-color: #016FCC;
+    color: #016FCC;
+  }
+  
+  
+  #img6{
+    margin-top: -8%;
+    margin-left: 31.84%;
+    
+    width: 21px;
+   ;
+  }
