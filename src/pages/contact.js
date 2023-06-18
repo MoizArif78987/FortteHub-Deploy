@@ -58,7 +58,7 @@ const Contact = () => {
         <div className="email-info">
           <a href="" target="_blank">
             <img
-              src="../message icon.png"
+              src="../chatimg2.png"
               alt="loading.."
               className="email-icon"
             />

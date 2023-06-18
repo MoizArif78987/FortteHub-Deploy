@@ -102,7 +102,7 @@
 .FacebookClickable {
   cursor: pointer;
   position: absolute;
-  width: 2vw;
+  width: 3vw;
   height: auto;
   left: 15.2vw;
   top: 56.5vh;
@@ -111,7 +111,7 @@
 .InstagramClickable {
   cursor: pointer;
   position: absolute;
-  width: 2vw;
+  width: 3vw;
   height: auto;
   left: 21.5vw;
   top: 56.5vh;
@@ -120,7 +120,7 @@
 .LinkedInClickable {
   cursor: pointer;
   position: absolute;
-  width: 2vw;
+  width: 3vw;
   height: auto;
   left: 28vw;
   top: 56.5vh;
@@ -135,8 +135,8 @@
 }
 
 .FHlogo {
-  position: fixed;
-  top: 0px;
+  position: absolute;
+  top: 12vh;
   left: 0px;
   width: 12vw;
   height: auto;
@@ -147,7 +147,7 @@
   position: absolute;
   width: 10px;
   height: 10px;
-  left: 86.5vw;
+  left: 85.5vw;
   top: 12vh;
 
   font-family: 'Urbanist';
@@ -185,19 +185,24 @@
   width: 15vw;
 }
 
-.contact_btn{
-  height: 10px;
+.contact_btn {
+  height: 3vw;
   width: auto;
+  margin: 10px;
   top: 0;
   left: 0;
+  cursor: pointer;
 }
 
-.career_btn{
-  height: 10px;
+.career_btn {
+  margin: 10px;
+  height: 3vw;
   width: auto;
   top: 0;
   left: 12px;
+  cursor: pointer;
 }
+
 .Line1 {
   position: absolute;
   width: 1.85vw;
@@ -239,6 +244,7 @@
 }
 
 .Enroll_button {
+  border: 0;
   cursor: pointer;
   position: absolute;
   width: 8vw;

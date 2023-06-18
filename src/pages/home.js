@@ -5,7 +5,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import { useCallback } from "react";
 import { useNavigate } from "react-router-dom";
-
+// import contact-img from 
 const Home = () => {
   const [show, setshow] = useState(false);
   const [showloading, setshowloading] = useState(false);
